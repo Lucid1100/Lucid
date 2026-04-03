@@ -20,7 +20,7 @@ A historical FIFA World Cup analysis (1930-2022).
 
 I explored and identified trends in team dominance, performance consistency, and overall tournament outcomes across different eras.
 
-[Read More](assests/FIFA_WorldCup_Analysis.pptx)
+[Read More](assests/FIFA_WorldCup_Analysis.pdf)
 
 **Sexually Transmitted Diseases Dashboard**
 
@@ -30,7 +30,7 @@ A sexually transmitted diseases (STD) dashboard analysis exploring patterns in p
 
 The dashboard highlights key trends in infection rates, identifies high-risk groups, and providess visual insights to support public health understanding awareness.
 
-[Read More](assests/STI_DASHBOARD.pdf.pptx)   
+[Read More](assests/STI_DASHBOARD.pdf.pdf)   
 
 **Crypto Market Analytical Dashboard**
 
@@ -50,7 +50,7 @@ A smoking health risk analyis examining the impact of smoking on major organs, i
 
 The analysis highlights both the adverse effects on human health and comparative differences in risk levels across organ, providing a clear view of how smoking influences overall body function and long-term health outcomes.
 
-[Read More](assests/Smoking_Health_Risk_Analysis.pdf.pptx)
+[Read More](assests/Smoking_Health_Risk_Analysis.pdf)
 
 [SEE MY SQL DATA CLEANING PROJECT](https://github.com/Lucid1100/SQL-DATA-CLEANING.git)
 
