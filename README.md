@@ -20,7 +20,7 @@ A historical FIFA World Cup analysis (1930-2022).
 
 I explored and identified trends in team dominance, performance consistency, and overall tournament outcomes across different eras.
 
-[Read More](https://github.com/Lucid1100/Lucid1100/issues/1.pdf) -------------
+[Read More](assests/FIFA_WorldCup_Analysis.pptx)
 
 **Sexually Transmitted Diseases Dashboard**
 
