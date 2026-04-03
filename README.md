@@ -30,7 +30,7 @@ A sexually transmitted diseases (STD) dashboard analysis exploring patterns in p
 
 The dashboard highlights key trends in infection rates, identifies high-risk groups, and providess visual insights to support public health understanding awareness.
 
-[Read More](STI_DASHBOARD.pdf.pptx)   
+[Read More](assests/STI_DASHBOARD.pdf.pptx)   
 
 **Crypto Market Analytical Dashboard**
 
@@ -76,7 +76,7 @@ The analysis highlights both the adverse effects on human health and comparative
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="assests/OLAYIWOLA HABEEB OLAMIDE's-CV.pdf">Download my CV</a></td>
+      <td><a href="assests/OLAYIWOLA HABEEB OLAMIDE's-CV.pdf/OLAYIWOLA HABEEB OLAMIDE's-CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
