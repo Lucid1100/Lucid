@@ -54,25 +54,25 @@ The analysis highlights both the adverse effects on human health and comparative
 
 [SEE MY SQL DATA CLEANING PROJECT](https://github.com/Mariamadeola17/SQL-DATA-CLEANING/blob/main/Layoffs_data_cleaning.sql)
 
-<a href="https://drive.google.com/drive/folders/1KcaHQV1X3DT3bhZ9MD3k5Nsrw1GNYLFW">My Certificates</a>
+
 
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s connect to discuss how i can add value to your data-driven projects!*
 <table>
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto: mariamadeola17@gmail.com">mariamadeola17@gmail.com</a></td>
+      <td><a href="mailto: olamideh110@gmail.com">olamideh110@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 814-449-7553</td>
+      <td>(234) 901-395-5880</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>LAGOS, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -80,6 +80,6 @@ The analysis highlights both the adverse effects on human health and comparative
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/mariam-adeola2025">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/olayiwolao">The things I do daily on LinkedIn</a></td>
     </tr>
   </tbody>
