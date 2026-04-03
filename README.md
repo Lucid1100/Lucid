@@ -40,7 +40,7 @@ A Crypto Market Multi-View Analysis Dashboard exploring overall market performan
 
 The dashboard is structured into four sections. Overview, comparative analysis, individual asset performance, and correlation analysis, hghlighting key trends, relationships between assets, and market behaviour to support deeper finanacial insights and decision-making.  
 
-[Read More](assets/Ashka-store-sale.pdf)
+[Read More](lucid1100.github.io/Assests/)
 
 **Smoking Health Risk Analysis**
 
